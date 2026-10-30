@@ -1,0 +1,4 @@
+model,accuracy,defect_precision,defect_recall,defect_f1
+MLP,0.95,0.943,0.943,0.943
+GP,0.955,0.944,0.955,0.949
+SVM,0.95,0.933,0.955,0.944
