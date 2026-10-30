@@ -34,6 +34,9 @@ After executing the pipeline, the outputs are saved to the `results/` directory:
 | **SVM** | 0.95 | 0.933 | 0.955 | 0.944 |
 
 The Gaussian Process (GP) classifier demonstrated the highest overall performance, yielding an accuracy of 0.955 and an F1 score of 0.949. However, the performance margins between the three models are minimal, indicating that all three effectively map the process window without significant divergence on a test set of this size.
+ 
+ 
+![Decision Boundaries](results/decision_boundaries.png)
 
 ## Usage
 
